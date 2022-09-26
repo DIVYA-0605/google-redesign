@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Google Clone built using Next.js (SSR) - with dark mode and a tweaked UI.
 
-Deployed App: [https://google-redesign-nm5b.vercel.app](https://google-redesign-nm5b.vercel.app)
+Deployed App: [https://google-redesign-nm5b-cr6usvkhp-divya-0605.vercel.app](https://google-redesign-nm5b-cr6usvkhp-divya-0605.vercel.app)
